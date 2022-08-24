@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ezyBrain
+- 👀 I’m interested in lots of tech Stuff
+- 🌱 I’m currently learning API technologies for performance, simplicty and growth
